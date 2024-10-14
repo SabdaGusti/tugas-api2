@@ -1,6 +1,6 @@
 |                    |                                                                     |
 | ------------------ | ------------------------------------------------------------------- |
-| Nama             | Sabda Gusgti Syailendra                                      (22104410077) |  
+| Nama             | Sabda Gusti Syailendra                                      (22104410077) |  
 | Kelas            | TI B                                                                |
 | Semester         | 5                                                                   |
 | Mata Kuliah      | PEMROGRAMAN API                                                     |
